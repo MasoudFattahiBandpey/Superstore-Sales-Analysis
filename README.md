@@ -1,5 +1,6 @@
 
-#Superstore Sales Analysis
+Superstore Sales Analysis
+
 Project Overview
 This project focuses on analyzing the sales performance of a fictional superstore using SQL queries and visualizations. The goal is to identify trends, optimize product placements, and enhance profitability across various regions and product categories.
 
